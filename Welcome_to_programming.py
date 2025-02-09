@@ -1,0 +1,5 @@
+print("Welcome to the world!")
+print("8472")
+print("My favorite number is 8472.")
+print("@#$%")
+print("Bye!")
