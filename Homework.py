@@ -1,0 +1,8 @@
+Aarush = ("6/04")
+Shilpi = ("9/19")
+Vivek = ("3/01")
+Shyam = ("1/23")
+print("My Birthday is",Aarush)
+print("My Mom's Birthday is",Shilpi)
+print("My Dad's Birthday is",Vivek)
+print("One of my cousin's birthday is",Shyam)
